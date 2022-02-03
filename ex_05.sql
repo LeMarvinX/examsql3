@@ -1,0 +1,1 @@
+SELECT lastname AS "Nom de l'utilisateur", email AS "Adresse email" FROM user ORDER BY lastname; 

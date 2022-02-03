@@ -1,0 +1,1 @@
+SELECT city FROM user ORDER BY city DESC;

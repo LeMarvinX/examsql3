@@ -1,0 +1,1 @@
+SELECT lastname AS "Nom de famille", GROUP BY "lastname" AS "Nombre de membres" From user;

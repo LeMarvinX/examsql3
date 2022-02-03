@@ -1,0 +1,1 @@
+SELECT name AS "Nom de l'abonnement",price AS "Prix de la journée" From subscription where duration =1;
